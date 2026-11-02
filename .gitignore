@@ -1,0 +1,10 @@
+# Local config with actual passwords and IP addresses
+config.properties
+
+# Compiled class files
+bin/
+*.class
+
+# Eclipse project files (temporary or local)
+.metadata/
+*.tmp
